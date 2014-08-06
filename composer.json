@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "league/plates": "2.0.*"
+        "league/plates": "2.*"
     },
     "require-dev": {
         "silex/silex": "~1.1",
